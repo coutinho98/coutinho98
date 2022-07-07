@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mateus Couto
 - 👀 I’m interested in code
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning JavaScript
 
 <!---
 coutinho98/coutinho98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
